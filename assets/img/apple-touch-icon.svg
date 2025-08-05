@@ -1,0 +1,14 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+    <!-- Arka plan için yuvarlatılmış dikdörtgen -->
+    <rect width="180" height="180" rx="24" ry="24" fill="#000000"/>
+    
+    <!-- Metin içeriği (renk beyaz olarak değiştirildi) -->
+    <text x="50%" y="50%" 
+          font-family="'Fira Code', monospace" 
+          font-size="54" 
+          fill="#FFFFFF" 
+          text-anchor="middle" 
+          dominant-baseline="middle">
+        &lt;my/&gt;
+    </text>
+</svg>
